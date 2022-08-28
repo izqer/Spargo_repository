@@ -1,0 +1,9 @@
+C:\Users\IZQ107\source\repos\SpargoTechnologies\SpargoTechnologies\obj\Debug\SpargoTechnologies.csprojAssemblyReference.cache
+C:\Users\IZQ107\source\repos\SpargoTechnologies\SpargoTechnologies\obj\Debug\SpargoTechnologies.csproj.CoreCompileInputs.cache
+C:\Users\IZQ107\source\repos\SpargoTechnologies\SpargoTechnologies\bin\Debug\data\Database.mdf
+C:\Users\IZQ107\source\repos\SpargoTechnologies\SpargoTechnologies\bin\Debug\data\Database_log.ldf
+C:\Users\IZQ107\source\repos\SpargoTechnologies\SpargoTechnologies\bin\Debug\SpargoTechnologies.exe.config
+C:\Users\IZQ107\source\repos\SpargoTechnologies\SpargoTechnologies\bin\Debug\SpargoTechnologies.exe
+C:\Users\IZQ107\source\repos\SpargoTechnologies\SpargoTechnologies\bin\Debug\SpargoTechnologies.pdb
+C:\Users\IZQ107\source\repos\SpargoTechnologies\SpargoTechnologies\obj\Debug\SpargoTechnologies.exe
+C:\Users\IZQ107\source\repos\SpargoTechnologies\SpargoTechnologies\obj\Debug\SpargoTechnologies.pdb
